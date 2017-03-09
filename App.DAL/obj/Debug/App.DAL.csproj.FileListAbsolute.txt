@@ -1,0 +1,10 @@
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\bin\Debug\App.DAL.dll.config
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\bin\Debug\App.DAL.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\bin\Debug\App.DAL.pdb
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\bin\Debug\EntityFramework.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\bin\Debug\EntityFramework.xml
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\obj\Debug\App.DAL.csprojResolveAssemblyReference.cache
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\obj\Debug\App.DAL.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\App.DAL\obj\Debug\App.DAL.pdb

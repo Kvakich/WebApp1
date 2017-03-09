@@ -1,0 +1,13 @@
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.pdb
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\App.DAL.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\AutoMapper.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\Ninject.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\EntityFramework.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\App.DAL.pdb
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\AutoMapper.xml
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\Ninject.xml
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\bin\Debug\EntityFramework.xml
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.csprojResolveAssemblyReference.cache
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.dll
+c:\users\kvaka\documents\visual studio 2015\Projects\WebApplication1\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.pdb

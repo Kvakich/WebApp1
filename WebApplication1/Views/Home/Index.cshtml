@@ -1,0 +1,27 @@
+﻿@using WebApplication1.Models
+
+@model List<PhoneViewModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Company</th>
+            <th>Data</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var phone in Model)
+        {
+            <tr>
+                <th scope="row">1</th>
+                <td>@phone.Name</td>
+                <td>@phone.Price</td>
+                <td>@phone.Company</td>
+                <td>@phone.Data</td>
+            </tr>
+        }   
+    </tbody>
+</table>
